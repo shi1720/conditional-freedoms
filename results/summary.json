@@ -1,0 +1,38 @@
+{
+  "recruitment_rows": 512,
+  "recruitment_trigger_rows": 2,
+  "departure_rows": 8,
+  "departure_trigger_rows": 1,
+  "seasonal_rows": 12,
+  "seasonal_unresolved": 1,
+  "combined_rows": 64,
+  "seasonal_clear_but_term_bar": 5,
+  "source_units": 22,
+  "mutations": [
+    {
+      "reading": "licence_only",
+      "disagreements": 1,
+      "domain": 8
+    },
+    {
+      "reading": "both_required",
+      "disagreements": 2,
+      "domain": 8
+    },
+    {
+      "reading": "no_exception",
+      "disagreements": 3,
+      "domain": 8
+    },
+    {
+      "reading": "blanket_geographical_ban",
+      "disagreements": 5,
+      "domain": 8
+    },
+    {
+      "reading": "omit_customary_saving",
+      "disagreements": 1,
+      "domain": 8
+    }
+  ]
+}

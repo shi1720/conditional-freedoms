@@ -1,0 +1,58 @@
+[
+  {
+    "file": "white_notestein_1915_ocr.txt",
+    "url": "https://archive.org/download/sourceproblemsin00whit/sourceproblemsin00whit_djvu.txt",
+    "access_date": "2026-10-16",
+    "sha256": "ad836714f5c2f9b26155108aa28dd0c1ae3a7890611399e31bf6a71a46a09750",
+    "bytes": 761937,
+    "note": "Historical edition in the public domain in the United States; OCR is not a facsimile."
+  },
+  {
+    "file": "putnam_1908_ocr.txt",
+    "url": "https://archive.org/download/enforcementofsta00putnrich/enforcementofsta00putnrich_djvu.txt",
+    "access_date": "2026-10-16",
+    "sha256": "29702dac13861d2fe0807c20032cda7e4ec09038e654c1434e52ce2afdd5e15e",
+    "bytes": 1406644,
+    "note": "Historical edition in the public domain in the United States; OCR is not a facsimile."
+  },
+  {
+    "file": "scans/putnam_appendix_25.png",
+    "url": "https://archive.org/download/enforcementofsta00putnrich/enforcementofsta00putnrich.pdf",
+    "access_date": "2026-10-16",
+    "sha256": "0c5d4992fcad6e8098992ef09ad2239ad0fccb190c2016557f984c46430c4bc5",
+    "bytes": 695096,
+    "pdf_page": 269,
+    "printed_locator": "Appendix, p. 25",
+    "note": "Single scan page rendered with pdftoppm, scale-to 1800; visually checked."
+  },
+  {
+    "file": "scans/putnam_appendix_154.png",
+    "url": "https://archive.org/download/enforcementofsta00putnrich/enforcementofsta00putnrich.pdf",
+    "access_date": "2026-10-16",
+    "sha256": "8f7cb9209922766afeb369737b2abd7480072efe99fda07a671349f744007ad9",
+    "bytes": 642890,
+    "pdf_page": 398,
+    "printed_locator": "Appendix, p. 154",
+    "note": "Single scan page rendered with pdftoppm, scale-to 1800; visually checked."
+  },
+  {
+    "file": "scans/white_notestein_142.png",
+    "url": "https://archive.org/download/sourceproblemsin00whit/sourceproblemsin00whit.pdf",
+    "access_date": "2026-10-16",
+    "sha256": "a1f7b7da59388737c8a0b69dffb6e749522d6a05b895739a239e083bfedb4399",
+    "bytes": 524336,
+    "pdf_page": 166,
+    "printed_locator": "p. 142",
+    "note": "Single scan page rendered with pdftoppm, scale-to 1800; visually checked."
+  },
+  {
+    "file": "scans/white_notestein_149.png",
+    "url": "https://archive.org/download/sourceproblemsin00whit/sourceproblemsin00whit.pdf",
+    "access_date": "2026-10-16",
+    "sha256": "0f91a793d621349c72bfb751d4bf33949d4ac6192b2f0617bdf0f00728ff723b",
+    "bytes": 545049,
+    "pdf_page": 173,
+    "printed_locator": "p. 149",
+    "note": "Single scan page rendered with pdftoppm, scale-to 1800; visually checked."
+  }
+]

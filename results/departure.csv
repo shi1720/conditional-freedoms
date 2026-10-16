@@ -1,0 +1,9 @@
+term,licence,cause,trigger,licence_only,both_required,no_exception
+False,False,False,False,False,False,False
+False,False,True,False,False,False,False
+False,True,False,False,False,False,False
+False,True,True,False,False,False,False
+True,False,False,True,True,True,True
+True,False,True,False,True,True,True
+True,True,False,False,False,True,True
+True,True,True,False,False,False,True
